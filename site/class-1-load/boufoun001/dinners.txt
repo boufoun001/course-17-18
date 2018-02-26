@@ -1,0 +1,4 @@
+Day	Dinner
+2018-02-26	Lasagna
+2018-02-25	McDonalds
+2018-02-24	Bloemkool
